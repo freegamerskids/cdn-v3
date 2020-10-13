@@ -1,0 +1,7 @@
+<head>
+  <meta property="og:image" content="<%= it.imageUrl %>"></meta>
+  <meta property="twitter:image" content="<%= it.imageUrl %>"></meta>
+  <meta property="twitter:card" content="summary_large_image" />
+</head>
+
+<img src="<%= it.imageUrl %>"></img>
