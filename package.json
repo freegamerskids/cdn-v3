@@ -1,0 +1,22 @@
+{
+  "name": "cdn",
+  "version": "1.0.0",
+  "description": "snowball's cdn",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elerium-cc/cdn.git"
+  },
+  "author": "Stroketon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elerium-cc/cdn/issues"
+  },
+  "homepage": "https://github.com/elerium-cc/cdn#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
